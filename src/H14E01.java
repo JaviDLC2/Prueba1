@@ -10,5 +10,4 @@ public class H14E01 {
 		System.out.print((char)i + " ");
 		}
 	}
-
 }
