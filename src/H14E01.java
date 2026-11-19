@@ -8,6 +8,7 @@ public class H14E01 {
 		caracter = in.nextLine().charAt(0);
 		for( int i = 32; i<=caracter;i++) {
 		System.out.print((char)i + " ");
+		System.out.println("Nueva versión no hace nada mas que escribir nueva versión ");
 		}
 	}
 }
